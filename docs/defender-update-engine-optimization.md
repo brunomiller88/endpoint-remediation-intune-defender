@@ -53,7 +53,8 @@ Após a alteração:
 
 
 ### Após o ajuste:
-(imagem será inserida aqui)
+![Captura tela 2025-12-10 093207](https://github.com/brunomiller88/endpoint-remediation-intune-defender/blob/main/docs/images/Captura%20de%20tela%202025-12-10%20093207.png)
+
 
 ---
 
