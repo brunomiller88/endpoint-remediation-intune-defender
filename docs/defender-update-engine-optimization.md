@@ -35,8 +35,7 @@ Foi configurado o **Beta Channel** para:
 Isso permite recebimento imediato de novas versões, reduzindo latência.
 
 ### Configuração no Intune
-(prints serão inseridos depois)
-
+<img src="https://github.com/brunomiller88/endpoint-remediation-intune-defender/blob/main/docs/images/engine-config-beta01.png" width="600px">
 ---
 
 ## Resultado Observado
