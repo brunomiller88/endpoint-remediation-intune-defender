@@ -47,7 +47,8 @@ Após a alteração:
 - Redução do backlog de versões defasadas
 
 ### Antes do ajuste:
-![Antes do ajuste](engine-metrics-before.png)
+![Engine Metrics Before](https://github.com/brunomiller88/endpoint-remediation-intune-defender/blob/main/docs/images/engine-metrics-before.png)
+
 
 
 
