@@ -48,7 +48,8 @@ Após a alteração:
 - Redução do backlog de versões defasadas
 
 ### Antes do ajuste:
-engine-metrics-before.png
+![Antes do ajuste](/images/engine-metrics-before.png)
+
 
 ### Após o ajuste:
 (imagem será inserida aqui)
